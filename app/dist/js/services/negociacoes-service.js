@@ -10,3 +10,4 @@ export class NegociacoesSevice {
         });
     }
 }
+//# sourceMappingURL=negociacoes-service.js.map
